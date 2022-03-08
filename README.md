@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
-<h3 align="center">A passionate Data Scientist from Italy</h3>
+<h3 align="center">🇮🇹</h3>
+
+- 🔭 I’m currently working as **Data Scientist**
 
 - 🌱 I’m currently studying **Data Science at University of Milan - Bicocca**
-
-- 📫 How to reach me **valotidavide@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
