@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Data Scientist**
 
-- 🌱 I’m currently studying **MS Data Science at University of Milan - Bicocca**
+- 🌱 I’m currently studying **MSc Data Science at University of Milan - Bicocca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
